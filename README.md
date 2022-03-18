@@ -56,11 +56,15 @@ Classification, Regression, Clustering)
 
 ### **[Store Sales Prediction](https://github.com/GustavoHBDuarte/store-sales-estimator)** 
 
-Brief description.<br>
+Rossmann drug store store managers are tasked with predicting their daily sales for up to six weeks in advance.
+Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality.
+With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of the results can be quite varied.
+
+Therefore a machine learning model was implemented aimed to forecast daily sales for six weeks. The corresponding model was further successfully deployed in order to provide predictions to be consumed by a Telegram bot.<br>
 
 ### **[Financial Fraud Detection](https://github.com/GustavoHBDuarte/fraud-detection)** 
 
-Brief description.<br>
+This project mainly focused on detecting new fraudulent transactions based on historical data. Our fictitious company named Transaction Tracker offers for clients a service that tracks and searches for fraud in a certain financial transaction. For this purpose, a machine learning algorithm was trained and validated, and the predictions can be accessed via API requests. In a simulated scenario, considering the test dataset, if implemented, the solution could lead to a total profit of 845,471,888.32 for Transaction Tracker.<br>
 
 ### **[Clustering Customers](https://github.com/GustavoHBDuarte/clustering-customers)** 
 
