@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-My name is Gustavo , I am a PhD in Sciences, chemist, completing the course in Data Science and enthusiast of building solutions involving the use of data. Here you are going to find some cool projects in the field of data science as well as some academic projects in the field of untargeted metabolomics
+My name is Gustavo , I am a PhD in Sciences, chemist, completing the course in Data Science and enthusiast of building solutions involving the use of data. Here you are going to find some cool projects in the field of data science as well as some academic projects in the field of untargeted metabolomics. Feel free to get in touch!
 
 
 
@@ -68,7 +68,7 @@ This project mainly focused on detecting new fraudulent transactions based on hi
 
 ### **[Clustering Customers](https://github.com/GustavoHBDuarte/clustering-customers)** 
 
-Brief description.<br>
+In this project machine learning, clustering algorithms were used to segment customers from an e-commerce in different groups with focus on the most valuable customers to join the loyalty program (Golden customers). After developing the pipeline locally, the corresponding solution was implemented in the cloud environment, where the information about purchase transactions and clustered customers can be consulted via SQL query and accessed by any data visualization tool.<br>
 
 
 # Metabolomics projects
@@ -76,4 +76,4 @@ Brief description.<br>
 
 ### **[Rosuvastatin Absorption Estimator - Predicting AUC and C<sub>max</sub>](https://github.com/GustavoHBDuarte/Metabolomics_PK_proj)** 
 
-Brief description.<br>
+Briefly, this project aimed to develop regression models able to predict the extent of absorption (Cmax and AUC) of the lipid-lowering agent Rosuvastatin in healthy volunteers. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of serum samples. Corresponding work was published in Frontiers in Pharmacology: Front. Pharmacol., 12 November 2021 | https://doi.org/10.3389/fphar.2021.752960 <br>
