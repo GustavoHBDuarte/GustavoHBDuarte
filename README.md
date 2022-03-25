@@ -84,3 +84,7 @@ In this project machine learning, clustering algorithms were used to segment cus
 ### **[Rosuvastatin Absorption Estimator - Predicting AUC and C<sub>max</sub>](https://github.com/GustavoHBDuarte/Metabolomics_PK_proj)** 
 
 Briefly, this project aimed to develop regression models able to predict the extent of absorption (Cmax and AUC) of the lipid-lowering agent Rosuvastatin in healthy volunteers. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of serum samples. Corresponding work was published in Frontiers in Pharmacology: Front. Pharmacol., 12 November 2021 | https://doi.org/10.3389/fphar.2021.752960 <br>
+
+### **[Bio-synthesized sardine oil concentrate alters the composition of hepatic lipids in rats: A lipidomic approach](https://github.com/GustavoHBDuarte/lipidomics-fish-oil)** 
+
+Briefly, this project aimed to investigate the effect of Bio-synthesized sardine oil (bioSO) treatment in male Wistar rats compared to unmodified sardine oil (unSO) and saline solution treatments. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of plasma samples. Corresponding work was published in Food Research International, v. 19, p. 108874, 2019. | https://doi.org/10.1016/j.foodres.2019.108874 <br>
