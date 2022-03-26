@@ -88,3 +88,7 @@ Briefly, this project aimed to develop regression models able to predict the ext
 ### **[Bio-synthesized sardine oil concentrate alters the composition of hepatic lipids in rats: A lipidomic approach](https://github.com/GustavoHBDuarte/lipidomics-fish-oil)** 
 
 Briefly, this project aimed to investigate the effect of Bio-synthesized sardine oil (bioSO) treatment in male Wistar rats compared to unmodified sardine oil (unSO) and saline solution treatments. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of liver tissue samples. Corresponding work was published in Food Research International, v. 19, p. 108874, 2019. | https://doi.org/10.1016/j.foodres.2019.108874 <br>
+
+### **[Plasma Lipid Profile Reveals Plasmalogens as Potential Biomarkers for Colon Cancer Screening](https://github.com/GustavoHBDuarte/lipidomics-colon-cancer)** 
+
+Basic, in this project we investigated potential lipid markers for colon cancer in humans. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of plasma samples. Corresponding work was published in Metabolites, v. 10, p. 262, 2020. | https://doi.org/10.1016/j.foodres.2019.108874 <br>
