@@ -91,4 +91,4 @@ Briefly, this project aimed to investigate the effect of Bio-synthesized sardine
 
 ### **[Plasma Lipid Profile Reveals Plasmalogens as Potential Biomarkers for Colon Cancer Screening](https://github.com/GustavoHBDuarte/lipidomics-colon-cancer)** 
 
-Basic, in this project we investigated potential lipid markers for colon cancer in humans. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of plasma samples. Corresponding work was published in Metabolites, v. 10, p. 262, 2020. | https://doi.org/10.1016/j.foodres.2019.108874 <br>
+Basic, in this project we investigated potential lipid markers for colon cancer in humans. Input data was acquired from Liquid Chromatography-Mass Spectrometry analysis of plasma samples. Corresponding work was published in Metabolites, v. 10, p. 262, 2020. | https://doi.org/10.3390/metabo10060262 <br>
