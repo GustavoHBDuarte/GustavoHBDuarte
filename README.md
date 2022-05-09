@@ -75,7 +75,11 @@ This project mainly focused on detecting new fraudulent transactions based on hi
 
 ### **[Clustering Customers](https://github.com/GustavoHBDuarte/clustering-customers)** 
 
-In this project machine learning, clustering algorithms were used to segment customers from an e-commerce in different groups with focus on the most valuable customers to join the loyalty program (Golden customers). After developing the pipeline locally, the corresponding solution was implemented in the cloud environment, where the information about purchase transactions and clustered customers can be consulted via SQL query and accessed by any data visualization tool.<br>
+In this project, machine learning clustering algorithms were used to segment customers from an e-commerce in different groups with focus on the most valuable customers to join the loyalty program (Golden customers). After developing the pipeline locally, the corresponding solution was implemented in the cloud environment, where the information about purchase transactions and clustered customers can be consulted via SQL query and accessed by any data visualization tool.<br>
+
+### **[Ranking Customers](https://github.com/GustavoHBDuarte/health-insurance)** 
+
+In this project, machine learning classification algorithms were used to rank potential customers from an health insurance company. Using learn-to-rank approach health insurance customers were rank according to their interest in acquiring a second vehicle insurance, using cross-sell strategy. After developing the solution locally, the corresponding ranking algorithm was implemented in the cloud environment, where the probability of each customer to be interested in a vehicle insurance can be checked in the following Google Sheets spreadsheet (https://docs.google.com/spreadsheets/d/1KW24Ld2ga5waI-yOg0iIEEB8n3JWomknB4ujhWyI5Mo/). If the usar insert new customers in the spreadsheet it is possible to request the corresponding probability of the inserted customer(s) to be interested in vehicle insurance.<br>
 
 
 # Metabolomics projects
