@@ -79,7 +79,7 @@ In this project, machine learning clustering algorithms were used to segment cus
 
 ### **[Ranking Customers](https://github.com/GustavoHBDuarte/health-insurance)** 
 
-In this project, machine learning classification algorithms were used to rank potential customers from an health insurance company. Using learn-to-rank approach health insurance customers were rank according to their interest in acquiring a second vehicle insurance, using cross-sell strategy. After developing the solution locally, the corresponding ranking algorithm was implemented in the cloud environment, where the probability of each customer to be interested in a vehicle insurance can be checked in the following Google Sheets spreadsheet (https://docs.google.com/spreadsheets/d/1KW24Ld2ga5waI-yOg0iIEEB8n3JWomknB4ujhWyI5Mo/). If the usar insert new customers in the spreadsheet it is possible to request the corresponding probability of the inserted customer(s) to be interested in vehicle insurance.<br>
+In this project, machine learning classification algorithms were used to rank potential customers from an health insurance company. Using learn-to-rank approach, health insurance customers were ranked according to their interest in acquiring a second vehicle insurance (cross-sell strategy). After developing the solution locally, the corresponding ranking algorithm was implemented in the cloud environment, where the probability of each customer to be interested in a vehicle insurance can be checked in a Google Sheets spreadsheet.<br>
 
 
 # Metabolomics projects
