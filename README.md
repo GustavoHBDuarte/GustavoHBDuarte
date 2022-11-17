@@ -49,7 +49,8 @@ My name is Gustavo , I am a PhD in Sciences, chemist, completing the course in D
 Classification, Regression, Clustering)
 
 
-- **Machine Learning Deployment**: ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+- **Machine Learning Deployment**: ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Azure-007598?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <br>
