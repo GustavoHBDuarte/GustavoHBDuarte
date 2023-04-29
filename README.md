@@ -62,6 +62,12 @@ Classification, Regression, Clustering)
 # Data Science projects
 
 
+### **[AB testing](https://github.com/GustavoHBDuarte/AB_testing)** 
+
+A/B testing is a controlled experiment in which two or more variants of a given condition are randomly presented to different groups of individuals, with the goal of determining which variation produces the best response or outcome. It is commonly used in computer science, psychology, marketing, and other areas to test the effectiveness of different versions of a product, message, or treatment.
+
+In this project, A/B testing was applied to evaluate two distinct scenarios: conversion rate evaluation and gross revenue evaluation.<br>
+
 ### **[Store Sales Prediction](https://github.com/GustavoHBDuarte/store-sales-estimator)** 
 
 Rossmann drug store store managers are tasked with predicting their daily sales for up to six weeks in advance.
